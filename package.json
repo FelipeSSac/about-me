@@ -1,0 +1,19 @@
+{
+  "name": "aboutfelipessac",
+  "version": "1.0.0",
+  "description": "about me data",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeSSac/about-me.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "felipessac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeSSac/about-me/issues"
+  },
+  "homepage": "https://github.com/FelipeSSac/about-me#readme"
+}
