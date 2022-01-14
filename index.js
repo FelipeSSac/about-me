@@ -1,6 +1,6 @@
 const aboutMe = {
   name: 'Felipe dos Santos Souza',
-  age: 20,
+  age: 21,
   gitHubUser: 'FelipeSSac',
   gitHubAccount: 'https://github.com/FelipeSSac',
   linkedIn: 'https://www.linkedin.com/in/felipessac/',
