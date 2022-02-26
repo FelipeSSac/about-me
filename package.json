@@ -1,8 +1,11 @@
 {
-  "name": "aboutfelipessac",
-  "version": "1.0.0",
+  "name": "felipessac",
+  "version": "1.0.4",
   "description": "about me data",
-  "main": "index.js",
+  "main": "./info.json",
+  "bin": {
+    "felipessac": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FelipeSSac/about-me.git"
